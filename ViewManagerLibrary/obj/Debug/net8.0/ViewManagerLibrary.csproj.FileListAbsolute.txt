@@ -1,0 +1,11 @@
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\bin\Debug\net8.0\ViewManagerLibrary.deps.json
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\bin\Debug\net8.0\ViewManagerLibrary.dll
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\bin\Debug\net8.0\ViewManagerLibrary.pdb
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ViewManagerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ViewManagerLibrary.AssemblyInfoInputs.cache
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ViewManagerLibrary.AssemblyInfo.cs
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ViewManagerLibrary.csproj.CoreCompileInputs.cache
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ViewManagerLibrary.dll
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\refint\ViewManagerLibrary.dll
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ViewManagerLibrary.pdb
+F:\Files\Coding\new\other\ZooApplication\ViewManagerLibrary\obj\Debug\net8.0\ref\ViewManagerLibrary.dll

@@ -1,0 +1,15 @@
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\bin\Debug\net8.0\DataProcessing.deps.json
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\bin\Debug\net8.0\DataProcessing.dll
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\bin\Debug\net8.0\DataProcessing.pdb
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\bin\Debug\net8.0\ZooObjects.dll
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\bin\Debug\net8.0\ZooObjects.pdb
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.csproj.AssemblyReference.cache
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.AssemblyInfoInputs.cache
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.AssemblyInfo.cs
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.csproj.CoreCompileInputs.cache
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProc.884A43CB.Up2Date
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.dll
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\refint\DataProcessing.dll
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\DataProcessing.pdb
+F:\Files\Coding\new\other\ZooApplication\DataProcessing\obj\Debug\net8.0\ref\DataProcessing.dll
