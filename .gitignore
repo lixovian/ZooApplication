@@ -1,0 +1,19 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+.vs/
+.idea/
+**/TestResults/
+**/coverage/
+**/coverage-report/
+*.nupkg
+*.snupkg
+*.DS_Store
+
+# Rider/JetBrains
+*.iml
+.idea/
